@@ -1,11 +1,25 @@
 Requisitos:
 
+1-financeineiro:
+
 contabilizar:
 -gastos
 -despesas(inclundo margem de erro)
 -materiais
 -preço de material
 -lucro
+-informar lucro com base em promoções 
 
+2-gerenciamento de estoque/estoque:
 
+-gerenciar materiais
+-receber notificação no celular quando estoque estiver baixo
+-gerenciar produto espesifico: tempo gasto na produção, materiais usados, preço total, lucro e margem de erro
 
+3-marketing:
+
+planilha com dados de desenpenho nas redes sociais
+dashboard com desempenho no ultimo mes
+grafico de gasto x retorno para propagandas e campanhas
+
+4- gerenciar clientes
